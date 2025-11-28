@@ -1,0 +1,9 @@
+{
+  "devDependencies": {
+    "@react-native-community/cli": "^20.0.2"
+  },
+  "dependencies": {
+    "@react-native/metro-config": "^0.82.1",
+    "react-native": "^0.82.1"
+  }
+}
